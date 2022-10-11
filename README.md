@@ -34,7 +34,7 @@
 
 ## About Me
 
-[![Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hchanhi)](https://github.com/hchanhi/github-readme-stats)
+[![SALT0601's GitHub stats](https://github-readme-stats.vercel.app/api?username=SALT0601)](https://github.com/SALT0601/github-readme-stats)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
